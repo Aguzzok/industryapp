@@ -1,0 +1,39 @@
+
+.product{
+    position: relative;
+    padding: 200px 50% 39px 50%!important;
+    padding: 200px 0px 0px 0px;
+    left: -488px;
+    top: -2px;
+    
+  
+}
+
+.btns{
+    position: absolute;
+    top: 420px;
+}
+
+.img_container{
+  
+}
+
+.carrucel_container{
+    
+    position: relative;
+    top: -330px;
+    padding: 300px 0px 0px 0px;
+    margin-left: 9%;
+    width: 80%;
+}
+
+.product_front{
+    position: absolute;
+    height: 1230px;
+    padding: 200px 50%!important;
+    padding: 200px 0px 0px 0px;
+    left: -569px;
+    top: -86px;
+    
+}
+
